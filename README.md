@@ -3,7 +3,8 @@
 
 # Streamlining ringed seal (Pusa hispida) abundance estimation through Computer Vision models 
 
-#Alberto Sastre, Marc Rams i Rios3, Kit M. Kovacs2, Christian Lydersen2, Rolf A. Ims1, Andrew D. Lowther2*
+</p>
+Alberto Sastre, Marc Rams i Rios3, Kit M. Kovacs2, Christian Lydersen2, Rolf A. Ims1, Andrew D. Lowther2*
 
 
 
