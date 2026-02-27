@@ -6,8 +6,11 @@
 </p>
 Alberto Sastre, Marc Rams i Rios3, Kit M. Kovacs2, Christian Lydersen2, Rolf A. Ims1, Andrew D. Lowther2*
 
+</p>
 1 UiT - The Arctic University of Norway, Department of Arctic and Marine Biology, Tromsø, Norway
+</p>
 2 Research Department, Norwegian Polar Institute, Tromsø, Norway
+</p>
 *Corresponding author: Andrew.Lowther@npolar.no
 
 
